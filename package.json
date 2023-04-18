@@ -1,6 +1,6 @@
 {
   "name": "Superstore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "nolan-sdk-test",
   "scripts": {
     "prepare": "tsc --build"
